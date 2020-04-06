@@ -11,7 +11,7 @@ Code to train classic RL agents in the distributional RL (DRL) framework
 
 
 
-###References:
+### References:
 
 
 _Dabney, W., Kurth-Nelson, Z., Uchida, N., Starkweather, C. K., Hassabis, D., Munos, R., & Botvinick, M. (2020). A distributional code for value in dopamine-based reinforcement learning. Nature, 577(7792), 671–675. https://doi.org/10.1038/s41586-019-1924-6_
