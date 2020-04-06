@@ -1,0 +1,22 @@
+env_id = 'CartPole-v0'
+ppo_epoch = 3
+num_mini_batch = 32
+ppo_clip_param = 0.1
+USE_NOISY_NETS = False
+N_STEPS = 1
+EPS_START = 1.0  # 0.9 from Cartpole tutorial
+EPS_END = 0.01  # .05
+EPS_DECAY = 30000  # 200
+GAMMA = 0.99
+LR = 1e-4
+TARGET_UPDATE = 10
+TARGET_NET_UPDATE_FREQ = 1000
+EXP_REPLAY_SIZE = 100000
+BATCH_SIZE = 32  # 128 from Cartpole
+LEARN_START = 10000  # Learning control variables
+MAX_FRAMES = 100000
+UPDATE_FREQ = 1
+QUANTILES = 200  # Quantile Regression Parameters
+SEQUENCE_LENGTH = 8  # DRQN Parameters
+ACTION_SELECTION_COUNT_FREQUENCY = 1000 # Data logging parameters
+
