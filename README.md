@@ -1,12 +1,15 @@
 ## **Distributional RL in Deep RL**
 
 
-Code to train classic RL agents in the distributional RL (DRL) framework with Deep NN
+Code to train classic RL agents in the distributional RL (DRL) framework with Deep neural networks
 
 (still under construction!)
 
 
-
+### Main requirements: 
+-Pytorch
+-Tensorboard
+-Gym
 
 
 
