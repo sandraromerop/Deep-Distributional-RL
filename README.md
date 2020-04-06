@@ -1,5 +1,5 @@
 
-Code to train classic RL agents in the distributional RL (DRL) framework
+_Code to train classic RL agents in the distributional RL (DRL) framework_
 
 References:
 
