@@ -6,13 +6,6 @@ Code to train classic RL agents in the distributional RL (DRL) framework with De
 (still under construction!)
 
 
-### Main requirements: 
--Pytorch
--Tensorboard
--Gym
-
-
-
 
 ### References:
 
