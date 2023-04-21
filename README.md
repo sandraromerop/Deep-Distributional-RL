@@ -1,4 +1,4 @@
-## **Distributional RL in Deep ANNs **
+## Distributional RL in Deep ANNs
 
 
 Code to train classic RL agents in the distributional RL (DRL) framework with Deep neural networks
